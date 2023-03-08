@@ -1,3 +1,4 @@
+//Rithvik Allamaneni
 package gettingstarted;
 
 //Add Phidgets Library 
@@ -29,7 +30,7 @@ public class phidgetq {
         greenButton.open(1000);
         greenLED.open(1000);
         System.out.println("If your answer is true, press the green button, if it is false, press the red button/nIf you got it correct, green will light up, if wrong, red will light up");
-        boolean ans = false;
+        boolean ans = false; // the correct answer
 		
 		while(true){
 			if(ans == true){
