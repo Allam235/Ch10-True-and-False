@@ -1,3 +1,4 @@
+//Kyle Wang
 import doodlepad.*;
 //import com.phidget22.*;
 
